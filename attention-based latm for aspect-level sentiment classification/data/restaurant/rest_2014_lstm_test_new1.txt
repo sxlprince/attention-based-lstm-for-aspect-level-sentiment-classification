@@ -1,0 +1,150 @@
+The $T$ is top notch as well .
+bread
+1
+I have to say they have one of the fastest $T$ in the city .
+delivery times
+1
+$T$ is always fresh and hot - ready to eat !
+Food
+1
+Did I mention that the $T$ is OUTSTANDING ?
+coffee
+1
+Certainly not the best $T$ in New York , however , it is always fresh , and the place is very clean , sterile .
+sushi
+-1
+Certainly not the best sushi in New York , however , it is always fresh , and the $T$ is very clean , sterile .
+place
+1
+I trust the $T$ at Go Sushi , it never disappoints .
+people
+1
+Straight-forward , no surprises , very decent $T$ .
+Japanese food
+1
+BEST spicy tuna roll , great $T$ .
+asian salad
+1
+BEST $T$ , great asian salad .
+spicy tuna roll
+1
+Try the $T$ ( not on menu ) .
+rose roll
+1
+Try the rose roll ( not on $T$ ) .
+menu
+0
+I love the $T$ , esp lychee martini , and the food is also VERY good .
+drinks
+1
+I love the drinks , esp $T$ , and the food is also VERY good .
+lychee martini
+1
+I love the drinks , esp lychee martini , and the $T$ is also VERY good .
+food
+1
+In fact , this was not a $T$ and was barely eatable .
+Nicoise salad
+-1
+While there 's a decent $T$ , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .
+menu
+1
+While there 's a decent menu , it should n't take ten minutes to get your $T$ and 45 for a dessert pizza .
+drinks
+0
+While there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a $T$ .
+dessert pizza
+0
+Once we sailed , the top-notch $T$ and live entertainment sold us on a unforgettable evening .
+food
+1
+Once we sailed , the top-notch food and $T$ sold us on a unforgettable evening .
+live entertainment
+1
+Our $T$ was horrible ; so rude and disinterested .
+waiter
+-1
+The $T$ 's - watered down .
+sangria
+-1
+$T$ - uneventful , small .
+menu
+-1
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh $T$ and great portions all at a reasonable price .
+sushi
+1
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great $T$ all at a reasonable price .
+portions
+1
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable $T$ .
+price
+1
+Great $T$ but the service was dreadful !
+food
+1
+Great food but the $T$ was dreadful !
+service
+-1
+The $T$ that came out were mediocre .
+portions of the food
+0
+the two $T$ looked like they had been sucking on lemons .
+waitress 's
+-1
+From the beginning , we were met by friendly $T$ , and the convienent parking at Chelsea Piers made it easy for us to get to the boat .
+staff memebers
+1
+From the beginning , we were met by friendly staff memebers , and the convienent $T$ at Chelsea Piers made it easy for us to get to the boat .
+parking
+1
+We enjoyed ourselves thoroughly and will be going back for the $T$ ...
+desserts
+1
+$T$ are almost incredible : my personal favorite is their Tart of the Day .
+Desserts
+1
+Desserts are almost incredible : my personal favorite is their $T$ .
+Tart of the Day
+1
+The $T$ was extremely tasty , creatively presented and the wine excellent .
+food
+1
+The food was extremely tasty , creatively presented and the $T$ excellent .
+wine
+1
+THE $T$ WAS PROBABLY THE BEST I HAVE TASTED .
+LASAGNA
+1
+Harumi Sushi has the freshest and most delicious $T$ in NYC .
+array of sushi
+1
+I highly recommend it for not just its superb $T$ , but also for its friendly owners and staff .
+cuisine
+1
+I highly recommend it for not just its superb cuisine , but also for its friendly $T$ and staff .
+owners
+1
+I highly recommend it for not just its superb cuisine , but also for its friendly owners and $T$ .
+staff
+1
+If you 're craving some serious $T$ and desire a cozy ambiance , this is quite and exquisite choice .
+indian food
+1
+If you 're craving some serious indian food and desire a cozy $T$ , this is quite and exquisite choice .
+ambiance
+1
+I definitely enjoyed the $T$ as well .
+food
+1
+It was pleasantly uncrowded , the $T$ was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .
+service
+1
+It was pleasantly uncrowded , the service was delightful , the $T$ adorable , the food ( from appetizers to entrees ) was delectable .
+garden
+1
+It was pleasantly uncrowded , the service was delightful , the garden adorable , the $T$ ( from appetizers to entrees ) was delectable .
+food
+1
+It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from $T$ to entrees ) was delectable .
+appetizers
+1
