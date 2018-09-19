@@ -1,5 +1,5 @@
 代码取自：https://github.com/scaufengyang/TD-LSTM       
-论文解读：https://zhuanlan.zhihu.com/p/39367023    
+论文解读：https://zhuanlan.zhihu.com/p/42659009   
 
 注：这里实现的是aspect-term嵌入，而不是aspect嵌入。  
     target是句子中直接存在的名词或实体,是aspect-term；aspect指的是名词或实体类别，即aspect-category。  
